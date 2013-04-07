@@ -1,6 +1,6 @@
 {
-    "push_branch": "master", 
+    "push_branch": null, 
     "application": "hwjava", 
     "version": "0.9.4", 
-    "push_protocol": "git"
+    "push_protocol": "rsync"
 }

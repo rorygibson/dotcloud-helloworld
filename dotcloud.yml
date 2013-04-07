@@ -1,2 +1,3 @@
 www:
     type: java
+    approot: dc-deploy
