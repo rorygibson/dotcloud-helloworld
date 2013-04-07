@@ -1,0 +1,6 @@
+{
+    "push_branch": "master", 
+    "application": "hwjava", 
+    "version": "0.9.4", 
+    "push_protocol": "git"
+}
